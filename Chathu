@@ -1,0 +1,6 @@
+
+public class Chathu{
+public static void main (String args[]){
+System.out.println("Tho maha uurek");
+}
+}

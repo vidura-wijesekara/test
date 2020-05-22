@@ -1,6 +1,6 @@
 
 public class Chathu{
 public static void main (String args[]){
-System.out.pprintln("Tho maha uurek");
+System.out.println("Tho maha uurek");
 }
 }
